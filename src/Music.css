@@ -115,7 +115,11 @@
 #list-box{
     width:30%;
     height:100vh;
+<<<<<<< HEAD
     background-color: rgb(187, 187, 112);
+=======
+    background-color: rgb(187, 187, 110);
+>>>>>>> feature1
 }
 #heading{
     width: 100%;

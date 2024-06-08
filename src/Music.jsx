@@ -88,7 +88,8 @@ function Music()
         <>
         <div id="music-box" >
            <nav id="navbar">
-           <a href="#list-box" id="playlist-btn">playlist</a>
+           <a href="#music-box" id="home-btn">Home</a>
+           <a href="#list-box" id="playlist-btn">Playlist</a>
            </nav>
         <div id="container">
             <audio src={songs[index]} id="song" ref={music}></audio>
